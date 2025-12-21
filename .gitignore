@@ -1,0 +1,6 @@
+db.sql
+html.txt
+*.log
+whisper/
+DanceWebsite/
+!three.log
